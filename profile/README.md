@@ -5,8 +5,9 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="sand-mehr-stacked.svg"
+    srcset="../content/brand/sand-mehr-stacked.svg"
   />
+  <img alt="Sand und Mehr Logo" src="../content/brand/sand-mehr-stacked.svg">
 </picture>
 
 # What should your website do better?
