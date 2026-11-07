@@ -1,13 +1,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="../content/brand/sand-mehr-stacked-inverse.svg"
+    srcset="../content/brand/sand-mehr-lockup-inverse.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="../content/brand/sand-mehr-stacked.svg"
+    srcset="../content/brand/sand-mehr-lockup.svg"
   />
-  <img alt="Sand und Mehr Logo" src="../content/brand/sand-mehr-stacked.svg">
+  <img alt="Sand und Mehr Logo" src="../content/brand/sand-mehr-lockup.svg">
 </picture>
 
 # What should your website do better?
